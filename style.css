@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Young Serif', serif;;
+}
+.web--head{
+    background-color: black;
+    padding: 20px;
+}
+.web--head__Name{
+    color: white;
+}
+.web--head__Role{
+    color: white;
+}
+.web--head__contact{
+    background-color: orangered;
+    padding: 1px;
+    margin-top: 30px;
+    text-decoration: none;
+    
+}
+.web--head__About{
+    margin: 20px;
+}
+.web--head__para{
+    padding: 20px;
+}
+.web--head__interest1{
+    padding: 20px;
+    display: inline block;
+    
+
+}
+.web--head__interestlist{
+    margin-left: 20px;
+    list-style: none;
+}
+.web--head__interest{
+    background-color: skyblue;
+    display: inline-block;
+    margin-left:20px;
+    padding: 45px;
+    border-radius: 10px;
+    height: 100px;
+    
+
+
+}
+.web--head__project{
+    display: inline-block;
+    background-color: orange;
+    padding-top: 100px;
+    border-radius: 10px;
+    height: 150px
+   ;padding: 20px;
+}
+.web--head__projectlist{
+    list-style: none;
+}
+.web--head__footer{
+    background-color: black;
+    padding: 15px;
+    margin: 20px;
+}
+.web--head__footer1{
+    color: white;
+}
+.web--head__footer2{
+    color: orangered;
+
+}
+.web--head__footer3{
+    color: skyblue;
+}
+.web--head__footer{
+    color: white;
+}
+.web--head__full{
+    padding: 10px;
+}
+.add--page__form{
+    padding: 10px;
+}
+.add--page__form1{
+    padding: 10px;
+}
+.add--page__table{
+    padding: 20px;
+}
+.add--page__submit{
+    padding: 5px;
+    margin-left: 75px;
+    background-color: orangered;
+}
